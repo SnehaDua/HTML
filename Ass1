@@ -9,8 +9,32 @@
         <H1>SNEHA DUA</H1>
         <H3>IT Consultant</H3>
       <DIV>
-       <UL>
-       <li>
+       <Table>
+        <TR>
+          <TD Style=" ><Strong>Name</Strong></TD>
+          <TD>Jefferson Sara</TD>
+        </TR>
+        <TR>
+          <TD><Strong>Date Of Birth</Strong></TD>
+          <TD>june 6, 1970</TD>
+        </TR>
+        <TR>
+          <TD><Strong>Address</Strong></TD>
+          <TD>Sanfransisco CA,94109 US </TD>
+        </TR>
+        <TR>
+          <TD><Strong>Phone</Strong></TD>
+          <TD+123456789></TD>
+        </TR>
+        <TR>
+          <TD><Strong>Email</Strong></TD>
+          <TD>abc.def@pqr.com</TD>
+        </TR>
+        <TR>
+          <TD><Strong>Website</Strong></TD>
+          <TD><em>www.google.com</em></TD>
+        </TR>
+       </TABLE>
       </DIV>
       
       
