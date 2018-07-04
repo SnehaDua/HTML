@@ -9,7 +9,7 @@
         <H1>SNEHA DUA</H1>
         <H3>IT Consultant</H3>
       <DIV>
-       <Table>
+       <Table Style="border-spacing:5px">
         <TR>
           <TD Style="text-align:right"><Strong>Name</Strong></TD>
           <TD Style="text-align:Left">Jefferson Sara</TD>
