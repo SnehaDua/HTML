@@ -5,7 +5,12 @@
   </HEAD>
   <BODY>
     <HEADER> 
-      <IMG src="C:\Users\Ashwani\Desktop\Pics\Gold coast with mom"/>
+      <DIV><IMG src="C:\Users\Ashwani\Desktop\Pics\Gold coast with mom"/>
+        <H1>SNEHA DUA</H1>
+        <H4>IT Consultant</H4>
+      <DIV>
+      
+      
     </HEADER>
   </BODY>
 </HTML>
