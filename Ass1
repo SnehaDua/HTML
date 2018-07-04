@@ -11,28 +11,28 @@
       <DIV>
        <Table>
         <TR>
-          <TD Style=" ><Strong>Name</Strong></TD>
-          <TD>Jefferson Sara</TD>
+          <TD Style="text-align:right"><Strong>Name</Strong></TD>
+          <TD Style="text-align:Left">Jefferson Sara</TD>
         </TR>
         <TR>
-          <TD><Strong>Date Of Birth</Strong></TD>
-          <TD>june 6, 1970</TD>
+          <TD Style="text-align:right"><Strong>Date Of Birth</Strong></TD>
+          <TD Style="text-align:Left">june 6, 1970</TD>
         </TR>
         <TR>
-          <TD><Strong>Address</Strong></TD>
-          <TD>Sanfransisco CA,94109 US </TD>
+          <TD Style="text-align:right"><Strong>Address</Strong></TD>
+          <TD Style="text-align:Left">Sanfransisco CA,94109 US </TD>
         </TR>
         <TR>
-          <TD><Strong>Phone</Strong></TD>
-          <TD+123456789></TD>
+          <TD Style="text-align:right"><Strong>Phone</Strong></TD>
+          <TD Style="text-align:Left">+123456789></TD>
         </TR>
         <TR>
-          <TD><Strong>Email</Strong></TD>
-          <TD>abc.def@pqr.com</TD>
+          <TD Style="text-align:right"><Strong>Email</Strong></TD>
+          <TD Style="text-align:Left">abc.def@pqr.com</TD>
         </TR>
         <TR>
-          <TD><Strong>Website</Strong></TD>
-          <TD><em>www.google.com</em></TD>
+          <TD Style="text-align:right"><Strong>Website</Strong></TD>
+          <TD Style="text-align:Left"><em>www.google.com</em></TD>
         </TR>
        </TABLE>
       </DIV>
