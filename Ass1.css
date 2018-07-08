@@ -1,7 +1,15 @@
 Head {
-  background-color: light grey;
+  background-color: lightgrey;
 }
 
 Table {
-  border-spacing:5px;
+   border-spacing:5px;
+}
+Span.a {
+  Dislay:inline-block;
+  width:100px;
+  height:100px;
+  padding:5px;
+  border:1px solid darkgrey;
+  background-color: white;
 }
